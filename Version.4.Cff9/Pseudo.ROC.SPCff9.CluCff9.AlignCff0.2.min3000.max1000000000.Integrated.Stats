@@ -1,0 +1,2 @@
+sample sv chrom overlap Ref.SVs Samp.SVs Sensitivity Specificity
+NA12878 MKDUPS chr1 214 272 750 0.786764705882353 0.285333333333333
